@@ -16,3 +16,11 @@ Installation
 - Put this repository's two files in the same directory, make sure zmoffsite-process.sh has chmod +x permissions.
 - Add a cronjob to run it automatically (example for every minute: */1 * * * * /home/zm/zmoffsite-process.sh)
 - Install a webserver if you like, like nginx, and let this directory be served
+
+Screenshots
+===========
+![zmoffsite_1](https://cloud.githubusercontent.com/assets/854197/25024492/7003e3ce-209e-11e7-98a2-741efef7e805.jpg)
+![zmoffsite_3](https://cloud.githubusercontent.com/assets/854197/25024490/7000817a-209e-11e7-80b0-715f6b7d34b4.jpg)
+![zmoffsite_2](https://cloud.githubusercontent.com/assets/854197/25024491/70026756-209e-11e7-963c-18c1edfa5a95.jpg)
+![zmoffsite_4](https://cloud.githubusercontent.com/assets/854197/25024489/70004048-209e-11e7-852f-38bc19e0e7d4.jpg)
+In this last screenshot you can see the settings I'm using for the upload tab in ZoneMinder.
